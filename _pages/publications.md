@@ -10,6 +10,13 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 
 <ul>
 
+
+<li><b>A graph-theoretic approach to altimetry-based surface modeling of the Greenland ice sheet</b> <br>
+  <u>Noah Bergam</u> and Abani Patra. <br>
+  Joint Mathematics Meeting, 2024. <br>
+  <a href="https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/27756">[Abstract] </a> 
+  </li>
+
 <li><b>On Optimal t-distributed Stochastic Neighbor Embeddings</b> <br>
   <u>Noah Bergam</u> and Nakul Verma. <br>
   Fall Fourier Talks, 2023. <br>
