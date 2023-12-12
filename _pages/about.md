@@ -14,7 +14,6 @@ Research
 ======
 I'm interested in theoretical computer science, including foundations of machine learning, geometric data analysis, and (approximation) algorithms (for massive data). I am also quite excited by the interdisciplinary possibilities of mathematical modelling, having done projects in natural language processing and geostatistical modeling. 
 
-
 Recent research projects include a rigorous analysis of globally optimal t-distributed stochastic neighbor embeddiings (t-SNE) and a new density-adaptive discretization scheme for altimetry modeling of the Greenland ice sheet. See my <a href="https://njbergam.github.io/research/">research page</a> for more information.
 
 
@@ -29,21 +28,28 @@ I have also worked as a TA for the following courses at Columbia.
 
 Academics
 ======
-Some relevant coursework I've taken at Columbia. 
+Some relevant courses and directed readings I've done at Columbia. 
 - Computational Complexity (Fall 2023)
 - Approximation Algorithms (Fall 2023)
-- Advanced Probability: martingales, stochastic processes (Fall 2023)
+- Advanced Probability: Martingales, Stochastic Processes (Fall 2023)
 - Senior Thesis: Manifold Intrinsic Dimension Estimation (Fall 2023)
-- Undergrad Seminars in Mathematics: Symmetric Functions and MacDonald Polynomials (Spring 2022) 
+- Undergrad Seminars in Math: Symmetric Functions and MacDonald Polynomials (Spring 2022) 
 - Modern Algebra 2 (Spring 2022)
-- Modern Algebra 1 (Spring 2022)
+- Modern Analysis 2 (Spring 2022)
 - Probability Theory (Spring 2022)
 - Computer Science Theory (Spring 2022)
-- Machine Learning (Fall 2022)
-- Modern Analysis 2 (Fall 2022)
+- Modern Algebra 1 (Fall 2022)
 - Modern Analysis 1 (Fall 2022)
+- Machine Learning (Fall 2022)
+- Directed Reading: Statistical Mechanics and Enumerative Combinatorics (Fall 2022)
 - Honors Math B (Spring 2022)
 - Spoken Language Processing (Spring 2022)
-- Projects in Computer Science: meta-learning and domain adaptation (Spring 2022)
+- Projects in Computer Science: Meta-Learning and Domain Adaptation (Spring 2022)
 - Honors Math A (Fall 2021)
 - Natural Language Processing (Fall 2021)
+
+Some workshops I've really enjoyed:
+- Fall Fourier Talks (UMD, October 2023)
+- MihalisFest (Columbia, August 2023)
+- Geometric Group Theory (Tufts, August 2023)
+- FODSI Computational Complexity of Statistical Problems (MIT, June 2023)
