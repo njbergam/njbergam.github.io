@@ -2,7 +2,7 @@
 title: "Notes on Probability Theory"
 collection: teaching
 type: "Notes from Coursework"
-permalink: /teaching/redux
+permalink: /teaching/prob
 venue: "MATH4155, 4156"
 date: 2023-05-10
 location: "New York, NY"
