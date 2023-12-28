@@ -33,7 +33,7 @@ Some relevant courses and directed readings I've done at Columbia.
 - Approximation Algorithms (Fall 2023)
 - Advanced Probability: Martingales, Stochastic Processes (Fall 2023)
 - Senior Thesis: Manifold Intrinsic Dimension Estimation (Fall 2023)
-- Undergrad Seminars in Math: Symmetric Functions and MacDonald Polynomials (Spring 2022) 
+- Undergrad Seminars in Math: Symmetric Functions, MacDonald Polynomials (Spring 2022) 
 - Modern Algebra 2 (Spring 2022)
 - Modern Analysis 2 (Spring 2022)
 - Probability Theory (Spring 2022)
