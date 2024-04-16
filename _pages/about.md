@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a third and final-year undergraduate at Columbia University, majoring in mathematics. I am currently applying for PhD programs in computer science <a href="https://njbergam.github.io/publications/CV.pdf">(here is my CV)</a> . This website houses some of my publications and teaching materials.
+ I am an incoming Computer Science PhD student at Columbia University.
+
+
+<!–– I am a third and final-year undergraduate at Columbia University, majoring in mathematics. I am currently applying for PhD programs in computer science <a href="https://njbergam.github.io/publications/CV.pdf">(here is my CV)</a> . This website houses some of my publications and teaching materials. ––>
 
 Research
 ======
