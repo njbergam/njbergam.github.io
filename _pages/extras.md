@@ -1,0 +1,3 @@
+I'm interested in theoretical computer science, including foundations of machine learning, geometric data analysis, and (approximation) algorithms (for massive data). I am also quite excited by the interdisciplinary possibilities of mathematical modelling, having done projects in natural language processing and geostatistical modeling. 
+
+Recent research projects include a rigorous analysis of globally optimal t-distributed stochastic neighbor embeddiings (t-SNE) and a new density-adaptive discretization scheme for altimetry modeling of the Greenland ice sheet. See my <a href="https://njbergam.github.io/research/">research page</a> for more information.

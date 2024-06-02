@@ -8,50 +8,30 @@ redirect_from:
   - /about.html
 ---
 
- I am an incoming Computer Science PhD student at Columbia University.
+I am an incoming Computer Science PhD student at Columbia University. I am interested in theoretical computer science, especially theoretical machine learning.
 
-
-<!–– I am a third and final-year undergraduate at Columbia University, majoring in mathematics. I am currently applying for PhD programs in computer science <a href="https://njbergam.github.io/publications/CV.pdf">(here is my CV)</a> . This website houses some of my publications and teaching materials. ––>
+<a href="https://njbergam.github.io/publications/CV.pdf">Here is my CV.</a> 
 
 Research
 ======
 I'm interested in theoretical computer science, including foundations of machine learning, geometric data analysis, and (approximation) algorithms (for massive data). I am also quite excited by the interdisciplinary possibilities of mathematical modelling, having done projects in natural language processing and geostatistical modeling. 
 
-Recent research projects include a rigorous analysis of globally optimal t-distributed stochastic neighbor embeddiings (t-SNE) and a new density-adaptive discretization scheme for altimetry modeling of the Greenland ice sheet. See my <a href="https://njbergam.github.io/research/">research page</a> for more information.
-
-
 Teaching
 ======
-There is a daunting amount of knowledge out there. I take inspiration in the idea that people who put in the work of learning can help refine the knowledge base. This drives me to create learning materials, which usually take the form of videos (housed by my <a href="https://www.youtube.com/user/njbergam">YouTube channel</a>) or expository writing (housed on this website). 
+There is a daunting amount of knowledge out there. I take inspiration in the idea that people who put in the work of learning can help refine the knowledge base. This drives me to create learning materials, which usually take the form of videos (housed by my <a href="https://www.youtube.com/user/njbergam">YouTube channel</a>) or expository writing (see <a href="https://njbergam.github.io/teaching/">this page</a>). 
+
 
 I have also worked as a TA for the following courses at Columbia.
-- COMS4771 Machine Learning (Daniel Hsu)
-- COMS4771 Machine Learning (Nakul Verma)
-- COMS4705 Natural Language Processing (Daniel Bauer)
+- CSOR4231 Probability Theory (Su24B, Nakul Verma)
+- MATH2500 Analysis and Optimization (Su24B, Jingbo Wan)
+- MATH4155 Probability Theory (Sp24, Ioannis Karatzas)
+- COMS4771 Machine Learning (Sp23, Sp24, Su24A Nakul Verma)
+- COMS4771 Machine Learning (Fa23, Daniel Hsu)
+- COMS4705 Natural Language Processing (Fa22, Daniel Bauer)
 
-Academics
-======
-Some relevant courses and directed readings I've done at Columbia. 
-- Computational Complexity (Fall 2023)
-- Approximation Algorithms (Fall 2023)
-- Advanced Probability: Martingales, Stochastic Processes (Fall 2023)
-- Senior Thesis: Manifold Intrinsic Dimension Estimation (Fall 2023)
-- Undergrad Seminars in Math: Symmetric Functions, MacDonald Polynomials (Spring 2022) 
-- Modern Algebra 2 (Spring 2022)
-- Modern Analysis 2 (Spring 2022)
-- Probability Theory (Spring 2022)
-- Computer Science Theory (Spring 2022)
-- Modern Algebra 1 (Fall 2022)
-- Modern Analysis 1 (Fall 2022)
-- Machine Learning (Fall 2022)
-- Directed Reading: Statistical Mechanics and Enumerative Combinatorics (Fall 2022)
-- Honors Math B (Spring 2022)
-- Spoken Language Processing (Spring 2022)
-- Projects in Computer Science: Meta-Learning and Domain Adaptation (Spring 2022)
-- Honors Math A (Fall 2021)
-- Natural Language Processing (Fall 2021)
-
-Some workshops I've really enjoyed:
+Some workshops I've really enjoyed / hope to enjoy:
+- DIMACS Tutorial on Fine-grained Complexity (Rutgers, July 2024)
+- Random Matrix Theory Summer School (UMichigan, June 2024)
 - Fall Fourier Talks (UMD, October 2023)
 - MihalisFest (Columbia, August 2023)
 - Geometric Group Theory (Tufts, August 2023)

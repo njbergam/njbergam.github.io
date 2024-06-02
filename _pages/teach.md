@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching"
-permalink: /teaching/
+permalink: /teach/
 author_profile: true
 ---
 
@@ -20,9 +20,3 @@ Some workshops I've really enjoyed / hope to enjoy:
 - MihalisFest (Columbia, August 2023)
 - Geometric Group Theory (Tufts, August 2023)
 - FODSI Computational Complexity of Statistical Problems (MIT, June 2023)
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-   {% include archive-single.html %}
- {% endfor %}
