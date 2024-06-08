@@ -10,6 +10,12 @@ location: "New York, NY"
 
 I have given a number of lectures to the Undergraduate Math Society, on topics ranging from topological data analysis to combinatorics to spectral graph theory. Here are some lecture notes and slides.
 
+Learning (and Sleeping!?) with Experts and Bandits
+======
+<a href="experts.pdf">[Handwritten Notes] </a>
+Online learning is a framework in machine learning where data becomes available in sequential order (think stock prices, time series, or any sort of time series type of data) and the learner must make predictions using this sequence. The goal is to minimize“regret”, i.e. the difference between the error of the learner and the error of the best course of predictions in hindsight. In this talk, we discuss two classical online learning problems: online allocation (where the loss of all actions is revealed each day, in the spirit of “full information”) and multi-armed bandits (where only the loss of the chosen action is revealed each day; “partial information”). Time permitting, we introduce the sleeping experts problem which presents an added layer of complexity to the idea of online learning with partial information. We develop a new algorithm for this sleeping.
+
+
 Approximating k-means
 ======
 <a href="ums5_kmeans.pdf">[Handwritten Notes] </a>
