@@ -1,9 +1,9 @@
 ---
-title: "How to graduate early from Columbia University"
+title: "How to graduate early from Columbia"
 collection: advice
-type: ""
+type: "earlygrad"
 permalink: /teaching/earlygrad
-venue: ""
+venue: "Columbia"
 date: 2024-06-07
 location: ""
 ---
