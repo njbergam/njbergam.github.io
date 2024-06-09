@@ -11,6 +11,12 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 <ul>
 
 
+<li><b>On Manifold Dimension Estimation</b> <br>
+  <u>Noah Bergam</u> and Andrew Blumberg. <br>
+  Honors Senior Thesis, Columbia Mathematics Department, 2024. <br>
+  <a href="https://njbergam.github.io/publications/seniorthesis.pdf">[Paper] </a> 
+  </li>
+
 <li><b>A graph-theoretic approach to altimetry-based surface modeling of the Greenland ice sheet</b> <br>
   <u>Noah Bergam</u> and Abani Patra. <br>
   Joint Mathematics Meeting, 2024. <br>

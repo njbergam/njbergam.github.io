@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Computer Science PhD student at Columbia University. I am interested in theoretical computer science, especially theoretical machine learning. Here is my <a href="https://njbergam.github.io/publications/CV.pdf">CV</a>. 
+I am an incoming Computer Science PhD student at Columbia University. I am interested in theoretical computer science, especially theoretical machine learning. Here is my <a href="https://njbergam.github.io/publications/CV-new.pdf">CV</a>. 
 
 Research
 ======
