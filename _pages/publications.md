@@ -10,6 +10,18 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 
 <ul>
 
+<li><b>A Sequential Lightbulb Problem</b> <br>
+  <u>Noah Bergam</u>, Berkan Ottlik, Arman Özcan. <br>
+  Final Project, COMS4232 Advanced Algorithms (May 2024).. <br>
+  <a href="https://njbergam.github.io/publications/lightbulb.pdf">[Paper] </a> 
+  </li>
+
+<li><b>Second-Order Bounds for Sleeping Experts</b> <br>
+  <u>Noah Bergam</u> and Arman Özcan. <br>
+  Final Project, COMS4773 Machine Learning Theory (May 2024). <br>
+  <a href="https://njbergam.github.io/publications/sleeping-experts.pdf">[Paper] </a> 
+  </li>
+
 
 <li><b>On Manifold Dimension Estimation</b> <br>
   <u>Noah Bergam</u> and Andrew Blumberg. <br>
