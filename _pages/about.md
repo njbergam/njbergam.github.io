@@ -12,7 +12,8 @@ I am a Computer Science PhD student at Columbia University, advised by <a href="
 
 Research
 ======
-I'm interested in theoretical computer science, especially the foundations of machine learning, geometric data analysis, and (approximation) algorithms (for massive data). I am also quite excited by the interdisciplinary possibilities of mathematical modelling, having done projects in natural language processing and geostatistical modeling. 
+I'm interested in the foundations of machine learning. I am drawn to problems where algorithmic, 
+statistical, and geometric perspectives overlap, e.g. subjects like geometric data analysis and low-dimensional metric embeddings. I am also quite excited by the interdisciplinary possibilities of mathematical modelling, having done projects in natural language processing and geostatistical modeling. 
 
 
 Teaching
