@@ -10,15 +10,9 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 
 <ul>
 
-<li><b>clusterSC: Advancing Synthetic Control with Donor Clustering for Disaggregate-Level Data</b> <br>
-  Saeyoung Rho, Andrew Tang, <u>Noah Bergam</u>, Rachel Cummings, Vishal Misra. <br>
-  In submission. <br> 
-  <a href="https://njbergam.github.io/publications/clusterSC.pdf">[Preprint] </a> 
-  </li>
-
 <li><b>A Sequential Lightbulb Problem</b> <br>
   <u>Noah Bergam</u>, Berkan Ottlik, Arman Özcan. <br>
-  Final Project, COMS4232 Advanced Algorithms (May 2024).. <br>
+  Poster Presentation, Fall Fourier Talks (October 2024). <br>
   <a href="https://njbergam.github.io/publications/lightbulb.pdf">[Paper] </a> 
   <a href="https://njbergam.github.io/publications/lightbulb_poster.pdf">[Poster] </a> 
   </li>
