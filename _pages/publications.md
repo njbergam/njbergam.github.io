@@ -10,9 +10,27 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 
 <ul>
 
+<li><b>Compressibility Barriers to Neighborhood-Preserving Data Visualizations</b> <br>
+  Szymon Snoeck, <u>Noah Bergam</u>, Nakul Verma. <br>
+  In submission. <br>
+  <a href="https://arxiv.org/abs/2508.071199">[Paper] </a> 
+  </li>
+
+<li><b>clusterSC: Advancing Synthetic Control with Donor Clustering for Disaggregate-level Data</b> <br>
+  Saeyoung Rho, Andrew Tang, <u>Noah Bergam</u>, Rachel Cummings, Vishal Misra. <br>
+  AISTATS 2025. <br>
+  <a href="https://arxiv.org/pdf/2503.21629">[Paper] </a> 
+  </li>
+
+<li><b>On Manifold Dimension Estimation</b> <br>
+  <u>Noah Bergam</u> and Andrew Blumberg. <br>
+  Columbia Undergraduate Journal of Mathematics, 2025. <br>
+  <a href="https://journals.library.columbia.edu/index.php/cjum/article/view/14078/7752">[Paper] </a> 
+  </li>
+
 <li><b>A Sequential Lightbulb Problem</b> <br>
   <u>Noah Bergam</u>, Berkan Ottlik, Arman Özcan. <br>
-  Poster Presentation, Fall Fourier Talks (October 2024). <br>
+  Fall Fourier Talks 2024. <br>
   <a href="https://njbergam.github.io/publications/lightbulb.pdf">[Paper] </a> 
   <a href="https://njbergam.github.io/publications/lightbulb_poster.pdf">[Poster] </a> 
   </li>
@@ -21,13 +39,6 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
   <u>Noah Bergam</u> and Arman Özcan. <br>
   Final Project, COMS4773 Machine Learning Theory (May 2024). <br>
   <a href="https://njbergam.github.io/publications/sleeping_experts.pdf">[Paper] </a> 
-  </li>
-
-
-<li><b>On Manifold Dimension Estimation</b> <br>
-  <u>Noah Bergam</u> and Andrew Blumberg. <br>
-  Honors Senior Thesis, Columbia Mathematics Department, 2024. <br>
-  <a href="https://njbergam.github.io/publications/seniorthesis.pdf">[Paper] </a> 
   </li>
 
 <li><b>A graph-theoretic approach to altimetry-based surface modeling of the Greenland ice sheet</b> <br>
@@ -41,7 +52,6 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
   Fall Fourier Talks, 2023. <br>
   <a href="https://njbergam.github.io/publications/tsne_poster.pdf">[Poster] </a> 
   </li>
-
 
   <li><b>Legal and Political Stance Detection of SCOTUS Language</b> <br>
   <u>Noah Bergam</u>, Emily Allaway, and Kathleen McKeown <br>
