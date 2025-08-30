@@ -8,6 +8,6 @@ date: 2025-08-29
 location: ""
 ---
 
-Here are notes summarizing the major concepts in the Society Financial Mathematics exam, one of the major exams for certification as an actuary. 
+Here are notes summarizing the major concepts in the Society Financial Mathematics exam, one of the main exams for gaining certification as an actuary. 
 
 <a href="exam_fm.pdf">[Exam FM study notes]</a>

@@ -14,6 +14,7 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
   Szymon Snoeck, <u>Noah Bergam</u>, Nakul Verma. <br>
   In submission. <br>
   <a href="https://arxiv.org/abs/2508.071199">[Paper] </a> 
+  <a href="https://njbergam.github.io/publications/graph_incompress.pdf">[Poster] </a> 
   </li>
 
 <li><b>clusterSC: Advancing Synthetic Control with Donor Clustering for Disaggregate-level Data</b> <br>
@@ -23,7 +24,7 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
   </li>
 
 <li><b>On Manifold Dimension Estimation</b> <br>
-  <u>Noah Bergam</u> and Andrew Blumberg. <br>
+  <u>Noah Bergam</u>, advised by Andrew Blumberg. <br>
   Columbia Undergraduate Journal of Mathematics, 2025. <br>
   <a href="https://journals.library.columbia.edu/index.php/cjum/article/view/14078/7752">[Paper] </a> 
   </li>
