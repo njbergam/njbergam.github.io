@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/actuary
 venue: ""
-date: 
+date: ""
 location: ""
 ---
 

@@ -17,5 +17,4 @@ I like to bring together algorithmic, statistical, and geometric perspectives.
 
 Teaching
 ======
-eople who put in the work of learning can help refine the knowledge base. 
-I try to contribute where I can. <a href="https://njbergam.github.io/teaching/">This page</a> houses various presentations, expository writeups, and thoughts about life. <a href="https://www.youtube.com/user/njbergam">This YouTube channel</a> houses some videos and lectures.
+<a href="https://njbergam.github.io/teaching/">This page</a> houses various presentations and expository writeups. <a href="https://www.youtube.com/user/njbergam">This YouTube channel</a> houses some videos and lectures.
