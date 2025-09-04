@@ -12,8 +12,7 @@ I am a PhD student in the Columbia University Computer Science Department, advis
 
 Research
 ======
-I'm interested in the foundations of machine learning and data science, particularly 
-I like to bring together algorithmic, statistical, and geometric perspectives.
+I'm interested in machine learning as it relates to structure discovery (e.g. clustering, dimension reduction, neural network feature learning). On the theoretical side, I'd like to understand when exactly such structure discovery is efficiently doable (and, importantly, when it is not). On the practical side, I want to help scientists make informed conclusions about their data.
 
 Teaching
 ======
