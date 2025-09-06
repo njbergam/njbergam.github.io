@@ -12,7 +12,12 @@ I am a PhD student in the Columbia University Computer Science Department, advis
 
 Research
 ======
-I'm interested in machine learning as it relates to structure discovery (e.g. clustering, dimension reduction, neural network feature learning). On the theoretical side, I'd like to understand when exactly such structure discovery is efficiently doable (and, importantly, when it is not). On the practical side, I want to help scientists make informed conclusions about their data.
+I'm interested in machine learning as it relates to structure discovery 
+(e.g. clustering, dimension reduction, neural network feature learning). 
+On the theoretical side, I'd like to develop a principled understanding of when 
+such kinds of structure discovery is possible. 
+On the practical side, I want to help scientists (particularly cell biologists) 
+make informed conclusions about their data.
 
 Teaching
 ======

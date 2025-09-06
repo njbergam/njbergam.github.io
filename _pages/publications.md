@@ -13,7 +13,7 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 <li><b>Compressibility Barriers to Neighborhood-Preserving Data Visualizations</b> <br>
   Szymon Snoeck, <u>Noah Bergam</u>, Nakul Verma. <br>
   In submission. <br>
-  <a href="https://arxiv.org/abs/2508.071199">[Paper] </a> 
+  <a href="https://arxiv.org/abs/2508.07119">[Paper] </a> 
   <a href="https://njbergam.github.io/publications/graph_incompress.pdf">[Poster] </a> 
   </li>
 
