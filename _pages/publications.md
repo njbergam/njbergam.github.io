@@ -44,6 +44,8 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 
 </ul>
 
+
+
 <u> Published Expository Work </u>
 <ul>
 
@@ -61,18 +63,15 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 
 </ul>
 
-<u> Miscellaneous Writings</u>
+
+
+<u> Miscellaneous</u>
 
 <ul>
 
-<li><b>Second-Order Bounds for Sleeping Experts</b> <br>
-  <u>Noah Bergam</u> and Arman Özcan. <br>
-  <a href="https://njbergam.github.io/publications/sleeping_experts.pdf">[Paper] </a> 
-  </li>
-
 <li><b>Sublinear Space for a Sequential Lightbulb Problem</b> <br>
   <u>Noah Bergam</u>, Berkan Ottlik, and Arman Özcan. <br>
-  Presented at Fall Fourier Talks, 2024. <br>
+  Presented at the Fall Fourier Talks, 2024. <br>
   <a href="https://njbergam.github.io/publications/lightbulb.pdf">[Paper] </a> 
   <a href="https://njbergam.github.io/publications/lightbulb_poster.pdf">[Poster] </a> 
   </li>
