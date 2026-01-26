@@ -12,7 +12,7 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 
 <li><b>t-SNE Exaggerates Clusters, Provably</b> <br>
   <u>Noah Bergam</u>, Szymon Snoeck, Nakul Verma. <br>
-  In submission. <br>
+  ICLR 2026. <br>
   <a href="https://www.cs.columbia.edu/~verma/papers/tsne_false_positives.pdf">[Paper] </a> 
   </li>
 
