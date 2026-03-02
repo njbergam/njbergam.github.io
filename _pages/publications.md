@@ -10,11 +10,6 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 <u> Research Papers </u>
 <ul>
 
-<li><b>A One-Inclusion Graph Approach to Multi-Group Learning</b> <br>
-  <u>Noah Bergam</u>, Samuel Deng, Daniel Hsu. <br>
-  In submission. <br>
-  </li>
-
 <li><b>t-SNE Exaggerates Clusters, Provably</b> <br>
   <u>Noah Bergam</u>, Szymon Snoeck, Nakul Verma. <br>
   ICLR 2026. <br>
