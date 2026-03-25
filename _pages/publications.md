@@ -10,23 +10,30 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 <u> Research Papers </u>
 <ul>
 
+<li><b>A One-Inclusion Graph Approach to Multi-Group Learning</b> <br>
+  <u>Noah Bergam</u>, Samuel Deng, Daniel Hsu. <br>
+  In submission. <br>
+  <a href="https://arxiv.org/abs/2603.23208">[arxiv] </a> 
+  </li>
+
 <li><b>t-SNE Exaggerates Clusters, Provably</b> <br>
   <u>Noah Bergam</u>, Szymon Snoeck, Nakul Verma. <br>
   ICLR 2026. <br>
-  <a href="https://www.cs.columbia.edu/~verma/papers/tsne_false_positives.pdf">[Paper] </a> 
+  <a href="https://arxiv.org/abs/2510.07746">[arxiv] </a> 
+  <a href="https://njbergam.github.io/publications/data_vis_pres.pdf">[Slides] </a> 
   </li>
 
 <li><b>Compressibility Barriers to Neighborhood-Preserving Data Visualizations</b> <br>
   Szymon Snoeck, <u>Noah Bergam</u>, Nakul Verma. <br>
   ALT 2026. <br>
-  <a href="https://arxiv.org/abs/2508.07119">[Paper] </a> 
+  <a href="https://arxiv.org/abs/2508.07119">[arxiv] </a> 
   <a href="https://njbergam.github.io/publications/graph_incompress.pdf">[Poster] </a> 
   </li>
 
 <li><b>clusterSC: Advancing Synthetic Control with Donor Clustering for Disaggregate-level Data</b> <br>
   Saeyoung Rho, Andrew Tang, <u>Noah Bergam</u>, Rachel Cummings, Vishal Misra. <br>
   AISTATS 2025. <br>
-  <a href="https://arxiv.org/pdf/2503.21629">[Paper] </a> 
+  <a href="https://arxiv.org/pdf/2503.21629">[arxiv] </a> 
   </li>
 
 <li><b>Legal and Political Stance Detection of SCOTUS Language</b> <br>
