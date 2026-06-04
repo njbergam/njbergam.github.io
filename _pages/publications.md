@@ -10,6 +10,12 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
 <u> Research Papers </u>
 <ul>
 
+<li><b>The price of multi-group transductive learning</b> <br>
+  <u>Noah Bergam</u>, Samuel Deng, Daniel Hsu. <br>
+  ICLR 2026. <br>
+  <a href="https://arxiv.org/pdf/2606.04423">[arxiv] </a> 
+  </li>
+
 
 <li><b>t-SNE Exaggerates Clusters, Provably</b> <br>
   <u>Noah Bergam</u>, Szymon Snoeck, Nakul Verma. <br>
