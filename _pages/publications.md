@@ -21,7 +21,7 @@ For more details, see my <a href="https://scholar.google.com/citations?user=VQfp
   <u>Noah Bergam</u>, Szymon Snoeck, Nakul Verma. <br>
   ICLR 2026. <br>
   <a href="https://arxiv.org/abs/2510.07746">[arxiv] </a> 
-  <a href="https://njbergam.github.io/publications/tsne_exag_poster.pdf">[poster] 
+  <a href="https://njbergam.github.io/publications/tsne_exag_poster.pdf">[poster] </a>
   <a href="https://njbergam.github.io/publications/data_vis_pres.pdf">[slides] </a> 
   </li>
 
